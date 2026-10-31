@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "nahan",
+    "title": "呐喊",
+    "author": "鲁迅",
+    "category": "short",
+    "description": "以短篇小说展现社会生活与人的精神处境。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=gO8xJGVarB2qEQoplXvY14JRbVdnz0z11nwjPmyDANKge8O65LG7Mk9xZYk69Zry",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2021072814/1747466011625391336?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "panghuang",
+    "title": "彷徨",
+    "author": "鲁迅",
+    "category": "short",
+    "description": "关注普通人与知识分子在时代变化中的困境。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=xGM6Evn5byxq2PnXBz71AjZaol6R8WJ9G60OKpGkd4gmMLEJrYNQe9VvD8P4jLkK",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2022031802/1769034409672966568?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "gushixinbian",
+    "title": "故事新编",
+    "author": "鲁迅",
+    "category": "short",
+    "description": "借神话与历史人物展开富于讽刺意味的现代叙事。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=N4yqKRVn1jAJaMyOQ2YorRp6DvXm7weVgv0GBKLzkPq5gdxEV98eNbZl467ovjzg",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2022122112/1794863277839251868/122112.jpeg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "chaohuaxishi",
+    "title": "朝花夕拾",
+    "author": "鲁迅",
+    "category": "essay",
+    "description": "回忆童年、求学经历以及亲友师长的散文集。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=5lZOKpMGr9mgdOvYa6Ej75XRo1NML3jeGgWk8ZVzb2nqPpDxBeJlK4AyQ8RPQv2z",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/img/202003/11/202003111651238501431736.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "yecao",
+    "title": "野草",
+    "author": "鲁迅",
+    "category": "essay",
+    "description": "以象征性意象与凝练文字探寻生命和精神世界。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=DGgybmrKYXmzPQ5bgJEjMdeOxDlyn0M9e902GaRN8k4p6B1oArL9Z7qvVRp8O126",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2022090717/1785141504474429424/090717.jpeg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "luotuoxiangzi",
+    "title": "骆驼祥子",
+    "author": "老舍",
+    "category": "long",
+    "description": "通过北京人力车夫祥子的经历，描写个人愿望与社会现实的冲突。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=EJmMZXq1b8qOpBlD69XAdP7LEGaKJWEmQRLWxRnme5vrVzo4QMZYgNyk2jNA5467",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2025060914/1878459054557839660/060914.jpeg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "sishitongtang",
+    "title": "四世同堂",
+    "author": "老舍",
+    "category": "long",
+    "description": "以北平小羊圈胡同的人物群像呈现抗战时期的市民生活。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=AnKgjNlArlXVNGKD1yL2Ek6YaogQv0YYvYv0bZ4RBn7j589zJpMxmdPeqOYDxqL4",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/cms_img/202404251437/cms_ebook_198a7e904000cc44.png?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "chaguan",
+    "title": "茶馆",
+    "author": "老舍",
+    "category": "drama",
+    "description": "以茶馆的变迁串联人物命运与社会变动的经典话剧。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=BpM1nLOerPa1XOp27zqQ8KGR56loVWreYn0dLygv94jYmnENDxAMZJBkbNzEblgQ",
+    "source_name": "得到电子书",
+    "cover_url": "http://piccdn3.umiwi.com/uploader/image/cms_ebook/ddimg_202304110110/cms_190d10c380013278.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "wozheyibeizi",
+    "title": "我这一辈子",
+    "author": "老舍",
+    "category": "short",
+    "description": "从普通人的生活遭际中书写旧社会的市井人生。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=DAOVMEb6LKoq7rM4DAYENOVl8XBgJ3Q4zkNW1v5kjeam9ZxzbQGn2PpyRdYQ2L8m",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/cms_img/202511251155/cms_ebook_1a494a2800020388WN72EbGb.png?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "yueyaer",
+    "title": "月牙儿",
+    "author": "老舍",
+    "category": "short",
+    "description": "以细腻笔触描绘底层女性的生活与命运。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=bxEYR1zAbZMmVzK4p1oxl67XeNaB83ODOEw92GJERgryYQdDnqjkPLvO5eOZ8Nqr",
+    "source_name": "得到电子书",
+    "cover_url": "http://piccdn3.umiwi.com/uploader/image/cms_ebook/ddimg_202304121457/cms_190d9597800070f4.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "buchengwentidewenti",
+    "title": "不成问题的问题",
+    "author": "老舍",
+    "category": "short",
+    "description": "从日常组织关系中揭示人情、处世与社会运行的矛盾。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg04amMWJzxbE9LZl1o8RkGd2BPYv4x6d9meB",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/img/201910/16/201910161818319454698560.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "jia",
+    "title": "家",
+    "author": "巴金",
+    "category": "long",
+    "description": "以高公馆的家庭生活书写青年反抗旧礼教、追寻自由的经历。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=z4R9BQ7pP4ZEaXYkx8KvRdljeyqo608gy1w1m2bMAO9NnDL7gBGQr5VzJqrvmEVN",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2021102720/1755930740404519968?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "chun",
+    "title": "春",
+    "author": "巴金",
+    "category": "long",
+    "description": "激流三部曲第二部，延续高家青年的觉醒与出走。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=6JvkYVNn8NXVry5MeG6Z9RALK2dxJ3G29dW7olBEmjgakz1DPvYObQ4qpQdZqme9",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2021102720/1755930581490729132?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "hanye",
+    "title": "寒夜",
+    "author": "巴金",
+    "category": "long",
+    "description": "描写抗战时期重庆一个知识分子家庭的生活压力与情感裂痕。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=Jjrvne28LQ2OjoRqkgdnmJX6NADGlWx7po0x1KvbBz97eaMP4VZrpEYy5VB6adNX",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2021103012/1756176985911986664?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "ziye",
+    "title": "子夜",
+    "author": "茅盾",
+    "category": "long",
+    "description": "以上海的城市生活与经济冲突展现二十世纪三十年代的社会图景。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=5kMLgX2vKGy7x5M8YRoDQbLgqkEeAw27kNE0BNn2r6ljVPO1mX9ad4JZpzZn1Rbe",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2023082311/1817590301296979764/082311.jpeg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "biancheng",
+    "title": "边城",
+    "author": "沈从文",
+    "category": "short",
+    "description": "以湘西小城的风物与少女翠翠的故事书写淳朴人情。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=EJmMZXq1b8qOpBlD69XAdP7LEGaKJWEqKLWxRnme5vrVzo4QMZYgNyk2jNA5467K",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/img/201902/27/201902270134392189488247.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "chengnanjiushi",
+    "title": "城南旧事",
+    "author": "林海音",
+    "category": "short",
+    "description": "通过童年视角回忆旧北京的街巷人物与成长往事。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=donM9vjLM8m6d5YQ7lvJGVz2Xgaqb3prMG0nBRyejENkP1KZo9rD4OApxpxkY7Ke",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/img/201908/30/201908301843555809486691.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "xiangxingsanji",
+    "title": "湘行散记·从文自传",
+    "author": "沈从文",
+    "category": "essay",
+    "description": "将湘西旅途见闻与个人成长经历融入朴素自然的文字。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=OAdXprx6N41dm9BQkayr8z7OqLGoE3lyObwYMlVAnxRZXK2Dg5pbevPJjjnQv2eb",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/img/201903/23/201903231326304372868210.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "hulanhezhuan",
+    "title": "呼兰河传",
+    "author": "萧红",
+    "category": "long",
+    "description": "从童年记忆出发，描绘东北小城的风俗、人物与日常生活。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7j4ao3rbx6pNgznl9VZPLJQyEBodb89mqo",
+    "source_name": "得到电子书",
+    "cover_url": "http://piccdn3.umiwi.com/uploader/image/cms_ebook/ddimg_202304231239/cms_19112da7c000147c.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "shengsichang",
+    "title": "生死场",
+    "author": "萧红",
+    "category": "short",
+    "description": "以东北乡村生活书写普通人的生存境遇与时代苦难。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=ZykJDGjQ7AOLNa642rbP8dkEgemKDwdDjAwXoVRjpBxl95MJzqvYGynZ18MEl5Bo",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/img/201911/12/201911121428172076064430.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "weicheng",
+    "title": "围城",
+    "author": "钱锺书",
+    "category": "long",
+    "description": "围绕方鸿渐的经历，对婚恋、知识分子生活与人情世态展开讽刺。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=5lZOKpMGr9mgdOvYa6Ej75XRo1NML3jxJb0k8ZVzb2nqPpDxBeJlK4AyQ8RPQv2z",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2023032719/1803795054247049712/032719.jpeg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "huozhe",
+    "title": "活着",
+    "author": "余华",
+    "category": "long",
+    "description": "以福贵的一生讲述普通人在苦难中的承受与生命韧性。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=vExPL6aYQPjadpoZxR5r6KDkbNJVO0o68D9w84GeXyLElm92gnMA1zvB7qMKpBGk",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2025091818/1887842155792192020/091818.jpeg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "xusanguanmaixueji",
+    "title": "许三观卖血记",
+    "author": "余华",
+    "category": "long",
+    "description": "围绕许三观与家人的生活，书写亲情、生计和普通人的尊严。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0R9GBkw8XDBK9qZpgkRELd75z4Ma6oDRrqj",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2025091818/1887842676557500948/091818.jpeg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "bailuyuan",
+    "title": "白鹿原",
+    "author": "陈忠实",
+    "category": "long",
+    "description": "通过白鹿两家的世代纠葛，描写关中乡村的历史变迁。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=N5lDqb9b47pXZxGn1kBzPlMyQArYv0q9KE0qe85E2aVKdo9jNgOLRmDJ6nXLm16K",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/img/202002/21/202002211707297706705689.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "furongzhen",
+    "title": "芙蓉镇",
+    "author": "古华",
+    "category": "long",
+    "description": "以湘南小镇居民的经历，表现社会变动中的个人命运。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=yVEDA2bKO27MKbRardAGJ1N4ln9BLVwgOkw8ZQyXmYqg5PpkEjxovze6DB84dpj6",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/img/201708/24/201708241559022457681750.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "beiying",
+    "title": "背影",
+    "author": "朱自清",
+    "category": "essay",
+    "description": "以平实细腻的散文记录亲情、生活感受与日常见闻。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg04EgRWJzxbE9LZl1o8RkGd2BPYv4x6d9meB",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/img/201910/24/201910241612444125554500.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "fanxingchunshui",
+    "title": "繁星·春水",
+    "author": "冰心",
+    "category": "essay",
+    "description": "以短诗抒写亲情、童心、自然与生活感悟。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=VEDA2bKO27MKbRardAGJ1N4ln9BLVwgqxZW8ZQyXmYqg5PpkEjxovze6DB84dpj6",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/img/202008/11/202008111737296096449729.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  },
+  {
+    "slug": "chenlun",
+    "title": "沉沦",
+    "author": "郁达夫",
+    "category": "short",
+    "description": "以青年留学生的心理与生活经历展现孤独、自尊和时代情绪。",
+    "source_url": "https://e.dangdang.com/touch/products/1900815021.html",
+    "source_name": "当当读书",
+    "cover_url": null
+  },
+  {
+    "slug": "leiyu",
+    "title": "雷雨",
+    "author": "曹禺",
+    "category": "drama",
+    "description": "通过一个家庭的冲突，呈现人物关系与社会矛盾交织的悲剧。",
+    "source_url": "https://e.dangdang.com/touch/products/1900717559.html",
+    "source_name": "当当读书",
+    "cover_url": null
+  },
+  {
+    "slug": "chunfengchenzuidewanshang",
+    "title": "春风沉醉的晚上",
+    "author": "郁达夫",
+    "category": "short",
+    "description": "借都市边缘人物的相遇，描写贫困中的理解与温情。",
+    "source_url": "https://www.dedao.cn/ebook/detail?id=bxEYR1zAbZMmVzK4p1oxl67XeNaB83OR17W92GJERgryYQdDnqjkPLvO5eOZ8Nqr",
+    "source_name": "得到电子书",
+    "cover_url": "https://piccdn3.umiwi.com/img/201902/17/201902171845192251033046.jpg?x-oss-process=image/resize,m_fill,h_320,w_240"
+  }
+]

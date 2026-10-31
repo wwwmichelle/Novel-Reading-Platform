@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "小说阅读模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "entry module"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "小说阅读"
+    },
+    {
+      "name": "reason_internet",
+      "value": "访问网络获取小说内容"
+    }
+  ]
+}

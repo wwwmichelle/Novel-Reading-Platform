@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+
+# Environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+dev.db
+dev.db-journal
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+#鸿蒙
+build/
+hvigor-wrapper.js
+oh-package-lock.json5
+
+# Logs
+*.log

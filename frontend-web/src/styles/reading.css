@@ -1,0 +1,130 @@
+.reading {
+  min-height: calc(100vh - var(--nav-h));
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.reading.light {
+  --reading-bg: var(--color-bg);
+  --reading-text: var(--color-text);
+  --reading-muted: var(--color-text-3);
+  --reading-border: var(--color-border);
+  --reading-surface: var(--color-surface);
+  background: var(--reading-bg);
+  color: var(--reading-text);
+}
+
+.reading.dark {
+  --reading-bg: #14171c;
+  --reading-text: #c8cdd6;
+  --reading-muted: #7c8594;
+  --reading-border: #262b33;
+  --reading-surface: #1a1e24;
+  background: var(--reading-bg);
+  color: var(--reading-text);
+}
+
+.toolbar {
+  position: sticky;
+  top: var(--nav-h);
+  z-index: 10;
+  background: var(--reading-surface);
+  border-bottom: 1px solid var(--reading-border);
+}
+
+.toolbar-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 56px;
+}
+
+.chapter-nav,
+.reading-tools {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.tool-btn {
+  min-height: 36px;
+  padding: 0 14px;
+  border: 1px solid var(--reading-border);
+  border-radius: var(--radius-pill);
+  background: transparent;
+  color: inherit;
+  font-size: var(--font-sm);
+  transition: background-color 0.16s ease, border-color 0.16s ease;
+}
+
+.tool-btn.round {
+  border-radius: 50%;
+  min-width: 36px;
+  padding: 0;
+}
+
+.tool-btn:hover:not(:disabled) {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+.tool-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+.font-size {
+  min-width: 28px;
+  text-align: center;
+  color: var(--reading-muted);
+  font-size: var(--font-xs);
+}
+
+.content-area {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 48px 24px 64px;
+}
+
+.content-area h1 {
+  font-size: 26px;
+  text-align: center;
+  margin-bottom: 8px;
+  letter-spacing: 1px;
+}
+
+.chapter-meta {
+  text-align: center;
+  color: var(--reading-muted);
+  font-size: var(--font-xs);
+  margin-bottom: 36px;
+}
+
+.content {
+  line-height: 2;
+  white-space: pre-wrap;
+  letter-spacing: 0.4px;
+}
+
+.chapter-footer {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  margin-top: 48px;
+}
+
+@media (max-width: 768px) {
+  .toolbar-inner {
+    flex-wrap: wrap;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  .content-area {
+    padding: 32px 18px 56px;
+  }
+
+  .content-area h1 {
+    font-size: 22px;
+  }
+}

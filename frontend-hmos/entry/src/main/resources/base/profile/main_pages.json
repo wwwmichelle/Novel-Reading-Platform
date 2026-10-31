@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/Login",
+    "pages/Register",
+    "pages/Home",
+    "pages/CategoryList",
+    "pages/CategoryBooks",
+    "pages/Search",
+    "pages/BookDetail",
+    "pages/ChapterList",
+    "pages/Reading",
+    "pages/Bookshelf",
+    "pages/Profile"
+  ]
+}

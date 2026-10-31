@@ -1,0 +1,35 @@
+.auth-shell {
+  min-height: 100vh;
+  background: var(--color-bg);
+  padding: var(--space-5) var(--space-3);
+}
+.auth-visual {
+  max-width: 420px;
+  margin: 0 auto var(--space-4);
+  color: var(--color-text);
+}
+.brand { display: flex; align-items: center; gap: 10px; font-weight: 700; }
+.brand-mark {
+  display: grid; place-items: center; width: 34px; height: 34px;
+  background: var(--color-primary); color: white; border-radius: var(--radius-sm);
+}
+.auth-visual h1 { font-size: var(--font-lg); line-height: 1.5; margin: 16px 0 8px; }
+.visual-desc, .subtitle { color: var(--color-text-2); }
+.visual-stack { display: none; }
+.auth-panel { max-width: 420px; margin: auto; }
+.login-page, .register-page { padding: var(--space-4); }
+h2 { font-size: var(--font-lg); margin-bottom: 6px; }
+.subtitle { margin-bottom: var(--space-4); }
+form, .field { display: flex; flex-direction: column; gap: 16px; }
+.field { gap: 6px; }
+.field span { color: var(--color-text-2); }
+.field input {
+  width: 100%; min-height: 44px; padding: 0 14px; font: inherit;
+  border: 1px solid var(--color-border); border-radius: var(--radius-sm);
+  background: var(--color-surface); color: var(--color-text);
+}
+.field input:focus { outline: 3px solid var(--color-primary-soft); border-color: var(--color-primary); }
+.submit { min-height: 44px; }
+.error { color: var(--color-danger); margin: 8px 0; }
+.switch { display: block; margin-top: 16px; text-align: center; color: var(--color-primary); }
+.switch:hover { text-decoration: underline; }
